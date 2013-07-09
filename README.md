@@ -1,7 +1,8 @@
 VBOs
 =======
 
-複数のVertex Shader Object(VBO)を使うサンプル
+複数のVertex Shader Object(VBO)を使うサンプルコード
+
 ポイントはglBindVertexArrayOES関数でIDごとに処理を記述するところ.
 
 今回のプログラムは，シェーダで同じattribute変数, uniform変数を使っているが，
